@@ -29,7 +29,7 @@ This is a screen-shot of the final live demo of this project.
 
 
 ## Features
-The project have many user-stories as shown below , for more details for each step please read  [development strategy](#development-strategy).. 
+The project have many user-stories as shown below , for more details for each step please read  ![development strategy](#development-strategy.md).. 
 
 | User-Story Name        | Branch Name        
 | ------------- |:-------------:| 
